@@ -1,0 +1,7 @@
+Ospetsuenak:
+
+- Wordpress
+- Shopify
+- Joomla!
+- Drupal
+- Wix / Squarespace
